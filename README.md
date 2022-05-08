@@ -23,7 +23,3 @@ And finally run:
 `yarn dev`
 or
 `npm run dev`
-
-<style>
-
-</style>
